@@ -9,7 +9,7 @@
    id="svg5"
    sodipodi:docname="dancepad-right2-render.svg"
    inkscape:version="1.2.1 (9c6d41e4, 2022-07-14)"
-   inkscape:export-filename="C:\Users\User\dancepad-right.png"
+   inkscape:export-filename="../../dancepad-right.png"
    inkscape:export-xdpi="499.98999"
    inkscape:export-ydpi="499.98999"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -29,14 +29,14 @@
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
-     inkscape:zoom="0.26673855"
-     inkscape:cx="1302.7738"
-     inkscape:cy="1576.45"
+     inkscape:zoom="1.0074671"
+     inkscape:cx="2327.1232"
+     inkscape:cy="2683.4624"
      inkscape:window-width="1792"
      inkscape:window-height="1067"
      inkscape:window-x="0"
      inkscape:window-y="25"
-     inkscape:window-maximized="1"
+     inkscape:window-maximized="0"
      inkscape:current-layer="layer3"
      inkscape:object-paths="false"
      inkscape:snap-smooth-nodes="false"
@@ -471,8 +471,9 @@
     <path
        id="path6011"
        style="fill:#cc99cc;fill-opacity:1;stroke:#000000;stroke-width:42.3281;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-       d="m 2115.1621,2502.4961 v 236.8769 205.9688 94.4102 l 2.4277,6.6718 h 311.6055 l -113.8301,-197.1621 -95.248,-164.9765 z"
-       transform="scale(0.26458333)" />
+       d="m 2115.1621,2502.4961 2.4277,543.9277 h 311.6055 l -113.8301,-197.1621 -95.248,-164.9765 z"
+       transform="scale(0.26458333)"
+       sodipodi:nodetypes="cccccc" />
     <path
        id="path1465"
        style="fill:#9999ff;fill-opacity:1;stroke:#000000;stroke-width:11.1993;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
@@ -5623,7 +5624,7 @@
      style="display:inline">
     <path
        id="path46826"
-       style="fill:#cc6666;fill-opacity:1;stroke:#000000;stroke-width:11.1993;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       style="fill:#cc6666;fill-opacity:1;stroke:#000000;stroke-width:11.19999974;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
        d="m 279.98255,559.96879 v 219.5231 a 386.37525,386.37803 0 0 0 139.99118,26.86235 386.37525,386.37803 0 0 0 139.99116,-26.70035 v -219.6851 z" />
     <path
        id="path46423"
